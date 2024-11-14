@@ -168,4 +168,3 @@ umount -R /mnt/gentoo
 # Finishing up
 echo "Gentoo installation is complete! You can now reboot into your system."
 echo "Your system has been configured with NetworkManager, the NVIDIA drivers, Cinnamon desktop, and genkernel for automatic kernel management."
-echo "Ensure to reboot and log in as 'yourusername' to start using your Gentoo system."
